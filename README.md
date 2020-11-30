@@ -24,7 +24,12 @@ pip2 install bs4
 
 # contact with me :
 
-[telegram channel](https://t.me/Professional_school)
+[![account](https://img.shields.io/badge/account%20-%20telegram-yellowred)](https://t.me/iiwiw)
+
+[![YouTube](https://img.shields.io/badge/Channel-Youtube-red)](https://YouTube.com/iraqhacker)
+
+[![TELEGRAM](https://img.shields.io/badge/channel-telegram-yellow)](https://t.me/Professional_school)
+
 
 
 
