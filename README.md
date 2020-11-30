@@ -30,7 +30,7 @@ pip2 install bs4
 
 [![TELEGRAM](https://img.shields.io/badge/channel-telegram-yellow)](https://t.me/Professional_school)
 
-[![Github](https://img.shields.io/badge/My%20web-in%20Githib-9cf)(https://github.com/iraq-hacker)
+[![Github](https://img.shields.io/badge/My%20web-in%20Githib-9cf)](https://github.com/iraq-hacker)
 
 
 
