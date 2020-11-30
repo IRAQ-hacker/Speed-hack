@@ -24,7 +24,7 @@ pip2 install bs4
 
 # contact with me :
 
-
+[telegram channel](https://t.me/Professional_school)
 
 
 
