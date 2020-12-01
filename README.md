@@ -35,4 +35,4 @@ pip2 install bs4
 
 
 # boring
-[!]https://github.com/IRAQ-hacker/Speed-hack/issues/1#issue-753896690
+[!](https://github.com/IRAQ-hacker/Speed-hack/issues/1#issue-753896690)
