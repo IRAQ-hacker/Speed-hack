@@ -48,4 +48,4 @@ this tool speed hack account's facebook .
 
 
 
-## Dev : [REKUSHE](https://t.me/iiwiw)
+## Dev : [ReKuShE](https://t.me/iiwiw)
