@@ -3,6 +3,10 @@
  
 this tool speed hack account's facebook .
 -
+
+![cheering_minions](https://user-images.githubusercontent.com/70316694/100680660-1ae6d580-3383-11eb-89a4-0800b78c33f4.gif)
+
+
 ## install pkg :
 
 ````
@@ -34,5 +38,4 @@ pip2 install bs4
 
 
 
-# boring
-![cheering_minions](https://user-images.githubusercontent.com/70316694/100680660-1ae6d580-3383-11eb-89a4-0800b78c33f4.gif)
+
