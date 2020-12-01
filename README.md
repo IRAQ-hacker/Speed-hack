@@ -14,18 +14,28 @@ this tool speed hack account's facebook .
 2- pkg install python -y
 3- pkg install python2 -y
 4- pkg install git 
+5- pkg install unzip
 ````
 ## install pip and pip2 :
 
-````
-pip install mechanize
-pip2 install mechanize
-pip install requests
-pip2 install requests
-pip install bs4
-pip2 install bs4
-````
+```
+6- pip install mechanize
+7- pip2 install mechanize
+8- pip install requests
+9- pip2 install requests
+10- pip install bs4
+11- pip2 install bs4
+```
 
+# 3 run script :
+```
+12- cd Speed-hack
+13- unzip mbf.zip
+14- cd mbf
+15- chmod +x *
+16- python2 run.py
+17- Start hacking and enjoy the sponsorship of Team3X
+```
 # contact with me :
 
 [![account](https://img.shields.io/badge/account%20-%20telegram-yellowred)](https://t.me/iiwiw)
@@ -38,4 +48,4 @@ pip2 install bs4
 
 
 
-
+## Dev : [REKUSHE](https://t.me/iiwiw)
