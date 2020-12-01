@@ -3,6 +3,8 @@
  
 this tool speed hack account's facebook .
 -
+It is open source for those who like to modify and add useful things and help in developing the tool, and if you notice any problems, contact me
+-
 
 ![cheering_minions](https://user-images.githubusercontent.com/70316694/100680660-1ae6d580-3383-11eb-89a4-0800b78c33f4.gif)
 
