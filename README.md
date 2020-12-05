@@ -46,6 +46,9 @@ this tool speed hack account's facebook It is open source for those who like to 
 
 [![Github](https://img.shields.io/badge/My%20web-in%20Githib-9cf)](https://github.com/iraq-hacker)
 
+# Link video for tool :
+1- go to this link : https://t.me/joinchat/AAAAAFYYIp5990wXv8EOEw
 
+2- https://t.me/c/1444422302/1865
 
 ## Dev : [ReKuShE](https://t.me/iiwiw)
